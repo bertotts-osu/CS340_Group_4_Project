@@ -66,4 +66,4 @@ logs/
 
 # Miscellaneous
 *.http
-*.gitignore
+*.github/workflows/
